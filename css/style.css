@@ -1,0 +1,62 @@
+blockquote,body,dd,div,dl,dt,fieldset,form,h1,h2,h3,h4,h5,h6,input,li,ol,p,pre,td,textarea,th,ul{padding:0;margin:0}table{border-collapse:collapse;border-spacing:0}abbr,acronym,fieldset,img{border:0}address,caption,cite,code,dfn,em,strong,th,var{font-weight:400;font-style:normal}ol,ul{list-style:none}caption,th{text-align:left}h1,h2,h3,h4,h5,h6{font-weight:400;font-size:100%}q:after,q:before{content:''}
+
+body {
+    background: #efefef;
+}
+.main {
+    background: #fff; 
+    box-shadow: 0 0 3px 0 #969696;
+    max-width: 512px;
+    margin: 5px auto 40px;
+}
+.header {
+    max-width: 412px;
+    border-bottom: 1px solid #7b7b7b;
+    margin: 0 auto;
+    padding: 53px 12px 20px 12px;
+}
+.header>h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+.header .image {
+    margin: 24px auto 15px;
+    width: 400px;
+}
+.content {
+    max-width: 412px;
+    border-bottom: 1px solid #7b7b7b;
+    margin: 0 auto;
+    padding: 27px 12px 21px;
+}
+.content p {
+    margin-bottom: 38px;
+}
+.content ul {
+    margin-left: 30px;
+}
+.content li {
+    list-style: disc;
+    line-height: 1.5em;
+}
+.contacts {
+    max-width: 412px;
+    border-bottom: 1px solid #7b7b7b;
+    margin: 0 auto;
+    padding: 27px 12px 21px;
+}
+.contacts p {
+    line-height: 1.6em;
+}
+.contacts p:first-child {
+    margin-bottom: 35px;
+}
+.feedback {
+    max-width: 412px;
+    margin: 0 auto;
+    padding: 27px 12px 70px;
+    line-height: 1.5em;
+}
+
+
