@@ -62,5 +62,7 @@ body {
     padding: 27px 12px 70px;
     line-height: 1.5em;
 }
-
+.feedback a {
+    text-decoration: none;
+}
 
